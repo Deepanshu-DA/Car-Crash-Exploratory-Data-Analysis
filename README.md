@@ -5,8 +5,8 @@ This Exploratory Data Analysis (EDA) is focused on understanding and extracting 
 ##Requirements
 To run the analysis code, ensure that you have the following dependencies installed:
 
---Python 3
---Pandas
---Matplotlib
---Seaborn
---Jupyter Notebook 
+-Python 3
+-Pandas
+-Matplotlib
+-Seaborn
+-Jupyter Notebook 
